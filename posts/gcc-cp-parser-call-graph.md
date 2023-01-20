@@ -1,3 +1,11 @@
+---
+title: gcc/cp parser.cc call graph
+date: 2023-1-20
+permalink: /personal-blog-ghpages
+---
+
+This page shows the call-graph in gcc/cp/parser.cc.
+
 
 <ol>
 <details><summary>cp_parser_translation_unit(cp_parser *)</summary>
