@@ -4,6 +4,11 @@ date: 2023-2-2
 permalink: /light-wave
 ---
 
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 
 # 对光的认识
 
